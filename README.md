@@ -1,30 +1,30 @@
-Simple Login Page With Tailwind CSS
+Simple Pricing Page With Tailwind CSS
 
 Setup a Tailwind CSS project. 
 Then, 
-I will design a login page or a login form with Tailwind CSS classes. 
-I have designed a login form by using Tailwind CSS (font awesome libraries)
+I will design a pricing page with Tailwind CSS classes. 
+I have designed a pricing form by using Tailwind CSS (font awesome libraries)
+
 
 ![alt text](image.png)
 
 
-
-Getting started
+01. Getting started
 
 After cloning the repository, follow these command
 
-Install Node Modules
+02. Install Node Modules
 
 
 npm install
 
 
-Build & Complie Tailwind Command
+03. Build & Complie Tailwind Command
 
 
 npm run dev
 
-Directory Info
+04. Directory Info
 
 The dist folder includes index.html & complied style.css
 The src folder includes input.css which a Tailwind pre-compile file
